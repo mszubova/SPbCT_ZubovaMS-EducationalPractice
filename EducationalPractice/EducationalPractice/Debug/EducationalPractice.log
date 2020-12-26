@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\МашаEducationalPractice\EducationalPractice\MyForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MathLibrary.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+     Создается библиотека D:\МашаEducationalPractice\Debug\EducationalPractice.lib и объект D:\МашаEducationalPractice\Debug\EducationalPractice.exp
+  EducationalPractice.vcxproj -> D:\МашаEducationalPractice\Debug\EducationalPractice.exe
